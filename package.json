@@ -1,0 +1,22 @@
+{
+  "name": "FortyDB",
+  "version": "0.0.1",
+  "description": "A simple local database",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon ."
+  },
+  "keywords": [
+    "database",
+    "localdb",
+    "db",
+    "database-local"
+  ],
+  "author": "BrayanBanner",
+  "license": "ISC",
+  "dependencies": {
+    "crypto-js": "^4.1.1",
+    "nanoid": "^4.0.0",
+    "node-localstorage": "^2.2.1"
+  }
+}
